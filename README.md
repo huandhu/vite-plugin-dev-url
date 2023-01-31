@@ -1,7 +1,7 @@
 # vite-plugin-dev-url
 这是一个 vite 插件，主要用于给 vite 开发服务器启动时，打印的地址连接添加用户的自定义属性及参数，包括 path、search 及 hash
 
-<img src="img/dome.jpeg">
+<img src="https://github.com/huandhu/vite-plugin-dev-url/blob/main/img/dome.jpeg">
 
 ## 安装
 ```bash
