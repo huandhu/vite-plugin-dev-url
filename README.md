@@ -4,7 +4,7 @@ A vite plugin to reset vite development server address, including path, search, 
 
 <img src="img/dome.jpeg">
 
-[中文文档](https://github.com/xiaweiss/vite-plugin-ali-oss/blob/master/README_CN.md)
+[中文文档](https://github.com/huandhu/vite-plugin-dev-url/blob/main/README_CN.md)
 ## Install
 ```bash
 npm i -D vite-plugin-dev-url
