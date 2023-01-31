@@ -12,8 +12,12 @@
     "build": "tsup src/index.ts --dts --format cjs,esm",
     "prepublishOnly": "pnpm build"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huandhu/vite-plugin-dev-url"
+  },
+  "keywords": ["vite", "plugin", "url"],
+  "author": "huandhu",
   "license": "MIT",
   "dependencies": {
     "vite": "^4.0.4"
