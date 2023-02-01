@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-dev-url",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "set vite develop server url",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
