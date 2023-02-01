@@ -1,7 +1,7 @@
 {
   "name": "vite-plugin-dev-url",
   "version": "1.0.1",
-  "description": "set vite develop server url",
+  "description": "set vite development server url",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "module": "dist/index.mjs",
@@ -16,7 +16,7 @@
     "type": "git",
     "url": "https://github.com/huandhu/vite-plugin-dev-url"
   },
-  "keywords": ["vite", "plugin", "url"],
+  "keywords": ["vite", "plugin", "development server",  "url"],
   "author": "huandhu",
   "license": "MIT",
   "dependencies": {
