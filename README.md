@@ -2,7 +2,7 @@
 
 A vite plugin to reset vite development server address, including path, search, and hash
 
-<img src="img/dome.jpeg">
+<img src="https://github.com/huandhu/vite-plugin-dev-url/blob/main/img/dome.jpeg">
 
 [中文文档](https://github.com/huandhu/vite-plugin-dev-url/blob/main/README_CN.md)
 ## Install
